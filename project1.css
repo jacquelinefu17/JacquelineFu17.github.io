@@ -11,22 +11,22 @@ h2 {
   font-weight: bold;
 }
 
-.category1 {
+.category-politics {
   background-color: #fdfd96;
 }
 
-.category2 {
+.category-technology {
   background-color: #00FFFF;
 }
 
-.category3 {
+.category-local {
   background-color: #C1E1C1;
 }
 
-.category4 {
+.category-opinion {
   background-color: #F0FFFF;
 }
 
-.category5 {
+.category-sports {
   background-color: #C3B1E1;
 }
