@@ -1,8 +1,12 @@
 h1 {
-  font-weight: italic;
+  font-style: italic;
   text-transform: uppercase;
 }
 
 h2 {
-  font-weight: italic;
+  font-stle: italic;
+}
+
+categories {
+  
 }
