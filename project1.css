@@ -7,6 +7,26 @@ h2 {
   font-stle: italic;
 }
 
-categories {
-  
+.categories {
+  font-weight: bold;
+}
+
+.category1 {
+  background-color: yellow;
+}
+
+.category2 {
+  background-color: aqua;
+}
+
+.category3 {
+  background-color: green;
+}
+
+.category4 {
+  background-color: blue;
+}
+
+.category5 {
+  background-color: purple;
 }
